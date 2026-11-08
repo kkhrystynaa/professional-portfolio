@@ -55,8 +55,3 @@ Currently, alongside my Master's studies, I am refining my engineering competenc
 * **Certifications:** IBM Python for Data Science and AI (Coursera, 2025); SKELAR IT Analytics Intensive (2025); Lviv Data Science Summer School (2025); Networking Fundamentals (Cisco, 2024).
 * **Languages:** Ukrainian (Native), English (Upper-Intermediate), Hungarian (Beginner)
 ---
-
-## Certifications & Languages
-
-* **Certifications:** IBM Python for Data Science and AI (Coursera, 2025); SKELAR IT Analytics Intensive (2025); Lviv Data Science Summer School (2025); Networking Fundamentals (Cisco, 2024).
-* **Languages:** Ukrainian (Native), English (Upper-Intermediate), Hungarian (Beginner).
